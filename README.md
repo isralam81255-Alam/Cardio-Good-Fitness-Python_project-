@@ -7,7 +7,7 @@ I recently completed a comprehensive Exploratory Data Analysis (EDA) case study 
 _My Approach:_
 
 Data Cleaning :
-Handled missing values and standardized data types using Pandas.
+Handled missing values and standardized data types using Pandas, and Numpy.
 
 Univariate Analysis :
 Analyzed distributions of Age, Income, and Usage using histograms and boxplots.
